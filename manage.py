@@ -1,4 +1,4 @@
-from app import app
+from myapp import app
 from flask.ext.script import Manager
 
 manager = Manager(app)

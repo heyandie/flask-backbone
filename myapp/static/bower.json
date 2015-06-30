@@ -1,0 +1,21 @@
+{
+  "name": "myapp",
+  "version": "0.0.0",
+  "authors": [
+    "Andie Rabino <rabinoandie@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "marionette": "~2.4.2",
+    "lodash": "~3.9.3",
+    "requirejs": "~2.1.18",
+    "requirejs-tpl": "*"
+  }
+}
