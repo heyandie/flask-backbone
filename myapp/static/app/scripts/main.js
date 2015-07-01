@@ -8,7 +8,8 @@ require.config({
     backbone : "../../bower_components/backbone/backbone",
     marionette : "../../bower_components/marionette/lib/backbone.marionette",
     "backbone.wreqr" : "../../bower_components/backbone.wreqr/lib/backbone.wreqr",
-    "backbone.babysitter" : "../../bower_components/backbone.babysitter/lib/backbone.babysitter"
+    "backbone.babysitter" : "../../bower_components/backbone.babysitter/lib/backbone.babysitter",
+    "localStorage" : "../../bower_components/Backbone.localStorage/backbone.localStorage"
   }
 })
 
